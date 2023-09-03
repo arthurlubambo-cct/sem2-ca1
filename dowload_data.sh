@@ -1,0 +1,1 @@
+curl -O https://zenodo.org/record/1117372/files/musdb18.zip?download=1
