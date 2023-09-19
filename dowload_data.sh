@@ -1,1 +1,6 @@
-curl -O https://zenodo.org/record/1117372/files/musdb18.zip?download=1
+if [ -e "lfw-funneled.tgz" ]; then
+    echo 'File already exists' >&2
+else
+    curl -o "lfw-funneled.tgz" "http://vis-www.cs.umass.edu/lfw/lfw-funneled.tgz"
+fi
+tar zxf lfw-funneled.tgz
