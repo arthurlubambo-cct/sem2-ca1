@@ -161,3 +161,4 @@ cython_debug/
 **/lfw_funneled/*.*
 **/lfw_funneled/*/*.*
 lfw-funneled.tgz
+~$paper.doc
