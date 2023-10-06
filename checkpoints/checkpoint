@@ -1,2 +1,2 @@
-model_checkpoint_path: "scae"
-all_model_checkpoint_paths: "scae"
+model_checkpoint_path: "CrossSameClass-ConvAutoencoder"
+all_model_checkpoint_paths: "CrossSameClass-ConvAutoencoder"
