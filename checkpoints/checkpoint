@@ -1,2 +1,2 @@
-model_checkpoint_path: "CrossSameClass-ConvAutoencoder"
-all_model_checkpoint_paths: "CrossSameClass-ConvAutoencoder"
+model_checkpoint_path: "CrossSameClass-DenseAutoencoder"
+all_model_checkpoint_paths: "CrossSameClass-DenseAutoencoder"
